@@ -5,4 +5,4 @@ Group Project
 
 on 2. of June we decide for few topics of our interest:
 - Eurovision Songcontest Paper Replication
-- Behaviour in Pandemics
+- Simulating Pandemics (infections vs. vaccinations)
