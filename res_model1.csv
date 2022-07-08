@@ -1,445 +1,5 @@
 ,RunId,iteration,Step,jury_or_televoting,year,ks_statistic,df
-0,0,0,1,J,2019,0.33205374280230326,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-48790         48790       48790  2019             f   2019f   
-48791         48791       48791  2019             f   2019f   
-48792         48792       48792  2019             f   2019f   
-48793         48793       48793  2019             f   2019f   
-48794         48794       48794  2019             f   2019f   
-...             ...         ...   ...           ...     ...   
-49827         49827       49827  2019             f   2019f   
-49828         49828       49828  2019             f   2019f   
-49829         49829       49829  2019             f   2019f   
-49830         49830       49830  2019             f   2019f   
-49831         49831       49831  2019             f   2019f   
-
-      jury_or_televoting     from               to  points Duplicate  \
-48790                  J    Malta            Italy      12       NaN   
-48791                  J    Malta            Spain       0       NaN   
-48792                  J    Malta           Israel       0       NaN   
-48793                  J    Malta   United Kingdom       0       NaN   
-48794                  J    Malta        Australia       0       NaN   
-...                  ...      ...              ...     ...       ...   
-49827                  J  Belarus           Greece       3       NaN   
-49828                  J  Belarus          Germany       0       NaN   
-49829                  J  Belarus          Belarus       0         x   
-49830                  J  Belarus  The Netherlands       6       NaN   
-49831                  J  Belarus           Russia       1       NaN   
-
-       model1_points       FoF  model1_FoF  
-48790              3  0.557692   -0.029915  
-48791             10 -0.002137    0.495726  
-48792              0  0.000000   -0.301282  
-48793              0 -0.017094   -0.352564  
-48794              0 -0.326923   -0.448718  
-...              ...       ...         ...  
-49827             12  0.149573    0.523504  
-49828              4 -0.051282   -0.012821  
-49829              0 -0.038462   -0.309829  
-49830              3  0.006410   -0.158120  
-49831              0 -0.183761   -0.365385  
-
-[1042 rows x 13 columns]"
-1,1,0,1,J,2017,0.3525641025641026,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-38858         38858       38858  2017             f   2017f   
-38859         38859       38859  2017             f   2017f   
-38860         38860       38860  2017             f   2017f   
-38861         38861       38861  2017             f   2017f   
-38862         38862       38862  2017             f   2017f   
-...             ...         ...   ...           ...     ...   
-39945         39945       39945  2017             f   2017f   
-39946         39946       39946  2017             f   2017f   
-39947         39947       39947  2017             f   2017f   
-39948         39948       39948  2017             f   2017f   
-39949         39949       39949  2017             f   2017f   
-
-      jury_or_televoting            from               to  points Duplicate  \
-38858                  J         Albania          Armenia       7       NaN   
-38859                  J         Albania        Australia       4       NaN   
-38860                  J         Albania          Austria       0       NaN   
-38861                  J         Albania       Azerbaijan       2       NaN   
-38862                  J         Albania          Belarus       0       NaN   
-...                  ...             ...              ...     ...       ...   
-39945                  J  United Kingdom            Spain       0       NaN   
-39946                  J  United Kingdom           Sweden       8       NaN   
-39947                  J  United Kingdom  The Netherlands       4       NaN   
-39948                  J  United Kingdom          Ukraine       0       NaN   
-39949                  J  United Kingdom   United Kingdom       0         x   
-
-       model1_points       FoF  model1_FoF  
-38858              0  0.477083   -0.285417  
-38859              6 -0.014583    0.145833  
-38860              8 -0.193750    0.425000  
-38861              0  0.008333   -0.395833  
-38862              3 -0.104167   -0.104167  
-...              ...       ...         ...  
-39945             10  0.000000    0.337500  
-39946              6  0.229167    0.239583  
-39947              0  0.060417   -0.420833  
-39948              5 -0.025000    0.025000  
-39949              0 -0.206250   -0.441667  
-
-[1092 rows x 13 columns]"
-2,2,0,1,T,2019,0.3675623800383877,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-47065         47065       47065  2019             f   2019f   
-47066         47066       47066  2019             f   2019f   
-47067         47067       47067  2019             f   2019f   
-47068         47068       47068  2019             f   2019f   
-47069         47069       47069  2019             f   2019f   
-...             ...         ...   ...           ...     ...   
-48102         48102       48102  2019             f   2019f   
-48103         48103       48103  2019             f   2019f   
-48104         48104       48104  2019             f   2019f   
-48105         48105       48105  2019             f   2019f   
-48106         48106       48106  2019             f   2019f   
-
-      jury_or_televoting     from               to  points Duplicate  \
-47065                  T    Malta            Italy      12       NaN   
-47066                  T    Malta            Spain       0       NaN   
-47067                  T    Malta           Israel       0       NaN   
-47068                  T    Malta   United Kingdom       0       NaN   
-47069                  T    Malta        Australia       3       NaN   
-...                  ...      ...              ...     ...       ...   
-48102                  T  Belarus           Greece       0       NaN   
-48103                  T  Belarus          Germany       0       NaN   
-48104                  T  Belarus          Belarus       0         x   
-48105                  T  Belarus  The Netherlands      10       NaN   
-48106                  T  Belarus           Russia      12       NaN   
-
-       model1_points       FoF  model1_FoF  
-47065              0  0.485043   -0.326923  
-47066             12 -0.113248    0.649573  
-47067              8 -0.074786    0.418803  
-47068             12 -0.006410    0.611111  
-47069              0 -0.023504   -0.446581  
-...              ...       ...         ...  
-48102              4 -0.051282   -0.102564  
-48103             12  0.000000    0.617521  
-48104              5 -0.027778    0.100427  
-48105              0  0.297009   -0.448718  
-48106              6  0.504274    0.051282  
-
-[1042 rows x 13 columns]"
-3,3,0,1,J,2016,0.35647279549718575,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-35286         35286       35286  2016             f   2016f   
-35287         35287       35287  2016             f   2016f   
-35288         35288       35288  2016             f   2016f   
-35289         35289       35289  2016             f   2016f   
-35290         35290       35290  2016             f   2016f   
-...             ...         ...   ...           ...     ...   
-36347         36347       36347  2016             f   2016f   
-36348         36348       36348  2016             f   2016f   
-36349         36349       36349  2016             f   2016f   
-36350         36350       36350  2016             f   2016f   
-36351         36351       36351  2016             f   2016f   
-
-      jury_or_televoting            from               to  points Duplicate  \
-35286                  J         Albania          Armenia       0       NaN   
-35287                  J         Albania        Australia      12       NaN   
-35288                  J         Albania          Austria       0       NaN   
-35289                  J         Albania       Azerbaijan       0       NaN   
-35290                  J         Albania          Belgium       0       NaN   
-...                  ...             ...              ...     ...       ...   
-36347                  J  United Kingdom           Serbia       2       NaN   
-36348                  J  United Kingdom            Spain       0       NaN   
-36349                  J  United Kingdom           Sweden       0       NaN   
-36350                  J  United Kingdom  The Netherlands       0       NaN   
-36351                  J  United Kingdom          Ukraine      10       NaN   
-
-       model1_points       FoF  model1_FoF  
-35286              0 -0.239583   -0.452083  
-35287             12  0.358333    0.600000  
-35288              2 -0.064583   -0.227083  
-35289              8 -0.091667    0.316667  
-35290             10 -0.270833    0.581250  
-...              ...       ...         ...  
-36347              3  0.097917   -0.060417  
-36348             22 -0.139583    1.500000  
-36349              2 -0.254167   -0.220833  
-36350              6 -0.237500    0.200000  
-36351              0  0.414583   -0.412500  
-
-[1066 rows x 13 columns]"
-4,4,0,1,J,2022,0.30974358974358973,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-54362         54362       54362  2022             f   2022f   
-54363         54363       54363  2022             f   2022f   
-54364         54364       54364  2022             f   2022f   
-54365         54365       54365  2022             f   2022f   
-54366         54366       54366  2022             f   2022f   
-...             ...         ...   ...           ...     ...   
-56283         56283       56283  2022             f   2022f   
-56284         56284       56284  2022             f   2022f   
-56285         56285       56285  2022             f   2022f   
-56286         56286       56286  2022             f   2022f   
-56287         56287       56287  2022             f   2022f   
-
-      jury_or_televoting            from              to  points Duplicate  \
-54362                  J         Albania         Armenia       4       NaN   
-54363                  J         Albania       Australia       0       NaN   
-54364                  J         Albania      Azerbaijan       3       NaN   
-54365                  J         Albania         Belgium       2       NaN   
-54366                  J         Albania  Czech Republic       0       NaN   
-...                  ...             ...             ...     ...       ...   
-56283                  J  United Kingdom          Serbia       1       NaN   
-56284                  J  United Kingdom           Spain      10       NaN   
-56285                  J  United Kingdom          Sweden      12       NaN   
-56286                  J  United Kingdom     Switzerland       2       NaN   
-56287                  J  United Kingdom         Ukraine       0       NaN   
-
-       model1_points       FoF  model1_FoF  
-54362              0  0.254386   -0.521930  
-54363              6 -0.269737    0.118421  
-54364              7  0.057018    0.175439  
-54365              0  0.059211   -0.322368  
-54366             11 -0.065789    0.519737  
-...              ...       ...         ...  
-56283              8 -0.105263    0.186404  
-56284             10  0.357456    0.460526  
-56285              3  0.471491   -0.118421  
-56286              0  0.000000   -0.427632  
-56287             10 -0.421053    0.357456  
-
-[975 rows x 13 columns]"
-5,5,0,1,T,2022,0.3671794871794872,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-54387         54387       54387  2022             f   2022f   
-54388         54388       54388  2022             f   2022f   
-54389         54389       54389  2022             f   2022f   
-54390         54390       54390  2022             f   2022f   
-54391         54391       54391  2022             f   2022f   
-...             ...         ...   ...           ...     ...   
-56307         56307       56307  2022             f   2022f   
-56308         56308       56308  2022             f   2022f   
-56309         56309       56309  2022             f   2022f   
-56310         56310       56310  2022             f   2022f   
-56311         56311       56311  2022             f   2022f   
-
-      jury_or_televoting            from              to  points Duplicate  \
-54387                  T         Albania         Armenia       0       NaN   
-54388                  T         Albania       Australia       0       NaN   
-54389                  T         Albania      Azerbaijan       0       NaN   
-54390                  T         Albania         Belgium       0       NaN   
-54391                  T         Albania  Czech Republic       0       NaN   
-...                  ...             ...             ...     ...       ...   
-56307                  T  United Kingdom          Serbia       1       NaN   
-56308                  T  United Kingdom           Spain       5       NaN   
-56309                  T  United Kingdom          Sweden       4       NaN   
-56310                  T  United Kingdom     Switzerland       0       NaN   
-56311                  T  United Kingdom         Ukraine      12       NaN   
-
-       model1_points       FoF  model1_FoF  
-54387             12 -0.046053    0.574561  
-54388              0 -0.004386   -0.396930  
-54389              2 -0.006579   -0.236842  
-54390              4 -0.010965    0.059211  
-54391              0 -0.010965   -0.304825  
-...              ...       ...         ...  
-56307             10 -0.407895    0.383772  
-56308              1 -0.050439   -0.322368  
-56309              3 -0.050439   -0.208333  
-56310              8  0.000000    0.269737  
-56311              0  0.078947   -0.449561  
-
-[975 rows x 13 columns]"
-6,6,0,1,J,2021,0.35728744939271256,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-49832         49832       49832  2021             f   2021f   
-49833         49833       49833  2021             f   2021f   
-49834         49834       49834  2021             f   2021f   
-49835         49835       49835  2021             f   2021f   
-49836         49836       49836  2021             f   2021f   
-...             ...         ...   ...           ...     ...   
-50815         50815       50815  2021             f   2021f   
-50816         50816       50816  2021             f   2021f   
-50817         50817       50817  2021             f   2021f   
-50818         50818       50818  2021             f   2021f   
-50819         50819       50819  2021             f   2021f   
-
-      jury_or_televoting             from              to  points Duplicate  \
-49832                  J        Australia         Albania       0       NaN   
-49833                  J          Austria         Albania       0       NaN   
-49834                  J       Azerbaijan         Albania       0       NaN   
-49835                  J          Belgium         Albania       0       NaN   
-49836                  J         Bulgaria         Albania       0       NaN   
-...                  ...              ...             ...     ...       ...   
-50815                  J            Spain  United Kingdom       0       NaN   
-50816                  J           Sweden  United Kingdom       0       NaN   
-50817                  J      Switzerland  United Kingdom       0       NaN   
-50818                  J  The Netherlands  United Kingdom       0       NaN   
-50819                  J          Ukraine  United Kingdom       0       NaN   
-
-       model1_points      FoF  model1_FoF  
-49832             19 -0.04955    1.171171  
-49833              0 -0.04955   -0.454955  
-49834              1 -0.04955   -0.369369  
-49835              0 -0.04955   -0.454955  
-49836              0 -0.04955   -0.454955  
-...              ...      ...         ...  
-50815              4  0.00000    0.065315  
-50816              7  0.00000    0.322072  
-50817              7  0.00000    0.322072  
-50818              6  0.00000    0.236486  
-50819              3  0.00000   -0.020270  
-
-[988 rows x 13 columns]"
-7,7,0,1,T,2021,0.3724696356275304,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-50820         50820       50820  2021             f   2021f   
-50821         50821       50821  2021             f   2021f   
-50822         50822       50822  2021             f   2021f   
-50823         50823       50823  2021             f   2021f   
-50824         50824       50824  2021             f   2021f   
-...             ...         ...   ...           ...     ...   
-51803         51803       51803  2021             f   2021f   
-51804         51804       51804  2021             f   2021f   
-51805         51805       51805  2021             f   2021f   
-51806         51806       51806  2021             f   2021f   
-51807         51807       51807  2021             f   2021f   
-
-      jury_or_televoting             from              to  points Duplicate  \
-50820                  T        Australia         Albania       0       NaN   
-50821                  T          Austria         Albania       0       NaN   
-50822                  T       Azerbaijan         Albania       0       NaN   
-50823                  T          Belgium         Albania       0       NaN   
-50824                  T         Bulgaria         Albania       0       NaN   
-...                  ...              ...             ...     ...       ...   
-51803                  T            Spain  United Kingdom       0       NaN   
-51804                  T           Sweden  United Kingdom       0       NaN   
-51805                  T      Switzerland  United Kingdom       0       NaN   
-51806                  T  The Netherlands  United Kingdom       0       NaN   
-51807                  T          Ukraine  United Kingdom       0       NaN   
-
-       model1_points       FoF  model1_FoF  
-50820              3 -0.078829   -0.013514  
-50821             10 -0.078829    0.585586  
-50822              0 -0.078829   -0.270270  
-50823              1 -0.078829   -0.184685  
-50824              0 -0.078829   -0.270270  
-...              ...       ...         ...  
-51803              1  0.000000   -0.367117  
-51804              0  0.000000   -0.452703  
-51805              0  0.000000   -0.452703  
-51806              0  0.000000   -0.452703  
-51807             13  0.000000    0.659910  
-
-[988 rows x 13 columns]"
-8,8,0,1,T,2017,0.3873626373626374,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-39950         39950       39950  2017             f   2017f   
-39951         39951       39951  2017             f   2017f   
-39952         39952       39952  2017             f   2017f   
-39953         39953       39953  2017             f   2017f   
-39954         39954       39954  2017             f   2017f   
-...             ...         ...   ...           ...     ...   
-41037         41037       41037  2017             f   2017f   
-41038         41038       41038  2017             f   2017f   
-41039         41039       41039  2017             f   2017f   
-41040         41040       41040  2017             f   2017f   
-41041         41041       41041  2017             f   2017f   
-
-      jury_or_televoting            from               to  points Duplicate  \
-39950                  T         Albania          Armenia       0       NaN   
-39951                  T         Albania        Australia       0       NaN   
-39952                  T         Albania          Austria       0       NaN   
-39953                  T         Albania       Azerbaijan       0       NaN   
-39954                  T         Albania          Belarus       0       NaN   
-...                  ...             ...              ...     ...       ...   
-41037                  T  United Kingdom            Spain       0       NaN   
-41038                  T  United Kingdom           Sweden       4       NaN   
-41039                  T  United Kingdom  The Netherlands       0       NaN   
-41040                  T  United Kingdom          Ukraine       0       NaN   
-41041                  T  United Kingdom   United Kingdom       0         x   
-
-       model1_points       FoF  model1_FoF  
-39950              0 -0.043750   -0.285417  
-39951              0 -0.004167   -0.366667  
-39952              0  0.000000   -0.258333  
-39953             12 -0.087500    0.629167  
-39954              0 -0.068750   -0.360417  
-...              ...       ...         ...  
-41037             11 -0.010417    0.422917  
-41038              0  0.079167   -0.272917  
-41039              6 -0.031250    0.091667  
-41040              0 -0.050000   -0.402083  
-41041              9 -0.025000    0.327083  
-
-[1092 rows x 13 columns]"
-9,9,0,1,T,2018,0.37209302325581395,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-43672         43672       43672  2018             f   2018f   
-43673         43673       43673  2018             f   2018f   
-43674         43674       43674  2018             f   2018f   
-43675         43675       43675  2018             f   2018f   
-43676         43676       43676  2018             f   2018f   
-...             ...         ...   ...           ...     ...   
-44785         44785       44785  2018             f   2018f   
-44786         44786       44786  2018             f   2018f   
-44787         44787       44787  2018             f   2018f   
-44788         44788       44788  2018             f   2018f   
-44789         44789       44789  2018             f   2018f   
-
-      jury_or_televoting            from               to  points Duplicate  \
-43672                  T         Albania          Albania       0         x   
-43673                  T         Albania        Australia       0       NaN   
-43674                  T         Albania          Austria       2       NaN   
-43675                  T         Albania         Bulgaria       6       NaN   
-43676                  T         Albania           Cyprus      10       NaN   
-...                  ...             ...              ...     ...       ...   
-44785                  T  United Kingdom            Spain       0       NaN   
-44786                  T  United Kingdom           Sweden       0       NaN   
-44787                  T  United Kingdom  The Netherlands       0       NaN   
-44788                  T  United Kingdom          Ukraine       0       NaN   
-44789                  T  United Kingdom   United Kingdom       0         x   
-
-       model1_points       FoF  model1_FoF  
-43672              0 -0.117886   -0.304878  
-43673             10 -0.018293    0.495935  
-43674              7  0.026423    0.321138  
-43675              0  0.378049   -0.398374  
-43676              0  0.339431   -0.367886  
-...              ...       ...         ...  
-44785              0 -0.036585   -0.518293  
-44786              0 -0.042683   -0.266260  
-44787              8 -0.065041    0.272358  
-44788              0 -0.241870   -0.396341  
-44789              1 -0.050813   -0.355691  
-
-[1118 rows x 13 columns]"
-10,10,0,1,T,2016,0.3527204502814259,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
-36352         36352       36352  2016             f   2016f   
-36353         36353       36353  2016             f   2016f   
-36354         36354       36354  2016             f   2016f   
-36355         36355       36355  2016             f   2016f   
-36356         36356       36356  2016             f   2016f   
-...             ...         ...   ...           ...     ...   
-37413         37413       37413  2016             f   2016f   
-37414         37414       37414  2016             f   2016f   
-37415         37415       37415  2016             f   2016f   
-37416         37416       37416  2016             f   2016f   
-37417         37417       37417  2016             f   2016f   
-
-      jury_or_televoting            from               to  points Duplicate  \
-36352                  T         Albania          Armenia       2       NaN   
-36353                  T         Albania        Australia      12       NaN   
-36354                  T         Albania          Austria       0       NaN   
-36355                  T         Albania       Azerbaijan       0       NaN   
-36356                  T         Albania          Belgium       0       NaN   
-...                  ...             ...              ...     ...       ...   
-37413                  T  United Kingdom           Serbia       0       NaN   
-37414                  T  United Kingdom            Spain       4       NaN   
-37415                  T  United Kingdom           Sweden       1       NaN   
-37416                  T  United Kingdom  The Netherlands       0       NaN   
-37417                  T  United Kingdom          Ukraine       5       NaN   
-
-       model1_points       FoF  model1_FoF  
-36352              3 -0.108333   -0.185417  
-36353              6  0.627083    0.129167  
-36354             10 -0.250000    0.464583  
-36355              0 -0.152083   -0.416667  
-36356              0 -0.106250   -0.241667  
-...              ...       ...         ...  
-37413              6 -0.166667    0.118750  
-37414              0  0.320833   -0.343750  
-37415              5 -0.204167    0.056250  
-37416             13 -0.081250    0.687500  
-37417              6 -0.245833    0.208333  
-
-[1066 rows x 13 columns]"
-11,11,0,1,J,2018,0.33989266547406083,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+0,0,0,1,J,2018,0.34525939177101966,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
 42554         42554       42554  2018             f   2018f   
 42555         42555       42555  2018             f   2018f   
 42556         42556       42556  2018             f   2018f   
@@ -466,16 +26,456 @@
 43671                  J  United Kingdom   United Kingdom       0         x   
 
        model1_points       FoF  model1_FoF  
-42554              0 -0.256098   -0.304878  
-42555              0 -0.182927   -0.357724  
-42556              0 -0.550813   -0.276423  
-42557              4  0.479675   -0.056911  
-42558              0  0.481707   -0.367886  
+42554              8 -0.256098    0.333333  
+42555              3 -0.182927   -0.158537  
+42556              7 -0.550813    0.130081  
+42557              5  0.479675    0.140244  
+42558              6  0.481707    0.093496  
 ...              ...       ...         ...  
-43667              7 -0.002033    0.079268  
-43668              2 -0.343496   -0.095528  
-43669              8 -0.180894    0.272358  
-43670              0 -0.022358   -0.396341  
-43671              1 -0.046748   -0.355691  
+43667              0 -0.002033   -0.298780  
+43668              0 -0.343496   -0.390244  
+43669              6 -0.180894    0.132114  
+43670              0 -0.022358   -0.378049  
+43671             15 -0.046748    0.813008  
 
 [1118 rows x 13 columns]"
+1,1,0,1,T,2022,0.34564102564102567,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+54387         54387       54387  2022             f   2022f   
+54388         54388       54388  2022             f   2022f   
+54389         54389       54389  2022             f   2022f   
+54390         54390       54390  2022             f   2022f   
+54391         54391       54391  2022             f   2022f   
+...             ...         ...   ...           ...     ...   
+56307         56307       56307  2022             f   2022f   
+56308         56308       56308  2022             f   2022f   
+56309         56309       56309  2022             f   2022f   
+56310         56310       56310  2022             f   2022f   
+56311         56311       56311  2022             f   2022f   
+
+      jury_or_televoting            from              to  points Duplicate  \
+54387                  T         Albania         Armenia       0       NaN   
+54388                  T         Albania       Australia       0       NaN   
+54389                  T         Albania      Azerbaijan       0       NaN   
+54390                  T         Albania         Belgium       0       NaN   
+54391                  T         Albania  Czech Republic       0       NaN   
+...                  ...             ...             ...     ...       ...   
+56307                  T  United Kingdom          Serbia       1       NaN   
+56308                  T  United Kingdom           Spain       5       NaN   
+56309                  T  United Kingdom          Sweden       4       NaN   
+56310                  T  United Kingdom     Switzerland       0       NaN   
+56311                  T  United Kingdom         Ukraine      12       NaN   
+
+       model1_points       FoF  model1_FoF  
+54387              0 -0.046053   -0.171053  
+54388              6 -0.004386    0.157895  
+54389              2 -0.006579   -0.083333  
+54390              5 -0.010965   -0.067982  
+54391              0 -0.010965   -0.364035  
+...              ...       ...         ...  
+56307              3 -0.407895   -0.212719  
+56308              0 -0.050439   -0.535088  
+56309             17 -0.050439    0.879386  
+56310             16  0.000000    0.942982  
+56311              4  0.078947   -0.096491  
+
+[975 rows x 13 columns]"
+2,2,0,1,J,2017,0.358974358974359,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+38858         38858       38858  2017             f   2017f   
+38859         38859       38859  2017             f   2017f   
+38860         38860       38860  2017             f   2017f   
+38861         38861       38861  2017             f   2017f   
+38862         38862       38862  2017             f   2017f   
+...             ...         ...   ...           ...     ...   
+39945         39945       39945  2017             f   2017f   
+39946         39946       39946  2017             f   2017f   
+39947         39947       39947  2017             f   2017f   
+39948         39948       39948  2017             f   2017f   
+39949         39949       39949  2017             f   2017f   
+
+      jury_or_televoting            from               to  points Duplicate  \
+38858                  J         Albania          Armenia       7       NaN   
+38859                  J         Albania        Australia       4       NaN   
+38860                  J         Albania          Austria       0       NaN   
+38861                  J         Albania       Azerbaijan       2       NaN   
+38862                  J         Albania          Belarus       0       NaN   
+...                  ...             ...              ...     ...       ...   
+39945                  J  United Kingdom            Spain       0       NaN   
+39946                  J  United Kingdom           Sweden       8       NaN   
+39947                  J  United Kingdom  The Netherlands       4       NaN   
+39948                  J  United Kingdom          Ukraine       0       NaN   
+39949                  J  United Kingdom   United Kingdom       0         x   
+
+       model1_points       FoF  model1_FoF  
+38858             24  0.477083    1.700000  
+38859              0 -0.014583   -0.408333  
+38860              8 -0.193750    0.204167  
+38861              0  0.008333   -0.268750  
+38862              0 -0.104167   -0.408333  
+...              ...       ...         ...  
+39945              0  0.000000   -0.306250  
+39946              5  0.229167    0.027083  
+39947              8  0.060417    0.300000  
+39948             12 -0.025000    0.637500  
+39949             12 -0.206250    0.572917  
+
+[1092 rows x 13 columns]"
+3,3,0,1,T,2019,0.3752399232245681,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+47065         47065       47065  2019             f   2019f   
+47066         47066       47066  2019             f   2019f   
+47067         47067       47067  2019             f   2019f   
+47068         47068       47068  2019             f   2019f   
+47069         47069       47069  2019             f   2019f   
+...             ...         ...   ...           ...     ...   
+48102         48102       48102  2019             f   2019f   
+48103         48103       48103  2019             f   2019f   
+48104         48104       48104  2019             f   2019f   
+48105         48105       48105  2019             f   2019f   
+48106         48106       48106  2019             f   2019f   
+
+      jury_or_televoting     from               to  points Duplicate  \
+47065                  T    Malta            Italy      12       NaN   
+47066                  T    Malta            Spain       0       NaN   
+47067                  T    Malta           Israel       0       NaN   
+47068                  T    Malta   United Kingdom       0       NaN   
+47069                  T    Malta        Australia       3       NaN   
+...                  ...      ...              ...     ...       ...   
+48102                  T  Belarus           Greece       0       NaN   
+48103                  T  Belarus          Germany       0       NaN   
+48104                  T  Belarus          Belarus       0         x   
+48105                  T  Belarus  The Netherlands      10       NaN   
+48106                  T  Belarus           Russia      12       NaN   
+
+       model1_points       FoF  model1_FoF  
+47065              3  0.485043   -0.126068  
+47066             10 -0.113248    0.386752  
+47067              8 -0.074786    0.258547  
+47068              0 -0.006410   -0.322650  
+47069              0 -0.023504   -0.290598  
+...              ...       ...         ...  
+48102              6 -0.051282    0.202991  
+48103              1  0.000000   -0.365385  
+48104              0 -0.027778   -0.459402  
+48105              1  0.297009   -0.339744  
+48106             12  0.504274    0.647436  
+
+[1042 rows x 13 columns]"
+4,4,0,1,J,2021,0.35526315789473684,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+49832         49832       49832  2021             f   2021f   
+49833         49833       49833  2021             f   2021f   
+49834         49834       49834  2021             f   2021f   
+49835         49835       49835  2021             f   2021f   
+49836         49836       49836  2021             f   2021f   
+...             ...         ...   ...           ...     ...   
+50815         50815       50815  2021             f   2021f   
+50816         50816       50816  2021             f   2021f   
+50817         50817       50817  2021             f   2021f   
+50818         50818       50818  2021             f   2021f   
+50819         50819       50819  2021             f   2021f   
+
+      jury_or_televoting             from              to  points Duplicate  \
+49832                  J        Australia         Albania       0       NaN   
+49833                  J          Austria         Albania       0       NaN   
+49834                  J       Azerbaijan         Albania       0       NaN   
+49835                  J          Belgium         Albania       0       NaN   
+49836                  J         Bulgaria         Albania       0       NaN   
+...                  ...              ...             ...     ...       ...   
+50815                  J            Spain  United Kingdom       0       NaN   
+50816                  J           Sweden  United Kingdom       0       NaN   
+50817                  J      Switzerland  United Kingdom       0       NaN   
+50818                  J  The Netherlands  United Kingdom       0       NaN   
+50819                  J          Ukraine  United Kingdom       0       NaN   
+
+       model1_points      FoF  model1_FoF  
+49832             18 -0.04955    1.060811  
+49833             10 -0.04955    0.376126  
+49834              2 -0.04955   -0.308559  
+49835              0 -0.04955   -0.479730  
+49836              5 -0.04955   -0.051802  
+...              ...      ...         ...  
+50815              4  0.00000   -0.074324  
+50816              5  0.00000    0.011261  
+50817              0  0.00000   -0.416667  
+50818              0  0.00000   -0.416667  
+50819              0  0.00000   -0.416667  
+
+[988 rows x 13 columns]"
+5,5,0,1,J,2022,0.31794871794871793,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+54362         54362       54362  2022             f   2022f   
+54363         54363       54363  2022             f   2022f   
+54364         54364       54364  2022             f   2022f   
+54365         54365       54365  2022             f   2022f   
+54366         54366       54366  2022             f   2022f   
+...             ...         ...   ...           ...     ...   
+56283         56283       56283  2022             f   2022f   
+56284         56284       56284  2022             f   2022f   
+56285         56285       56285  2022             f   2022f   
+56286         56286       56286  2022             f   2022f   
+56287         56287       56287  2022             f   2022f   
+
+      jury_or_televoting            from              to  points Duplicate  \
+54362                  J         Albania         Armenia       4       NaN   
+54363                  J         Albania       Australia       0       NaN   
+54364                  J         Albania      Azerbaijan       3       NaN   
+54365                  J         Albania         Belgium       2       NaN   
+54366                  J         Albania  Czech Republic       0       NaN   
+...                  ...             ...             ...     ...       ...   
+56283                  J  United Kingdom          Serbia       1       NaN   
+56284                  J  United Kingdom           Spain      10       NaN   
+56285                  J  United Kingdom          Sweden      12       NaN   
+56286                  J  United Kingdom     Switzerland       2       NaN   
+56287                  J  United Kingdom         Ukraine       0       NaN   
+
+       model1_points       FoF  model1_FoF  
+54362              7  0.254386    0.293860  
+54363             12 -0.269737    0.739035  
+54364              2  0.057018   -0.149123  
+54365              2  0.059211   -0.223684  
+54366              6 -0.065789    0.008772  
+...              ...       ...         ...  
+56283              0 -0.105263   -0.412281  
+56284              2  0.357456   -0.243421  
+56285              7  0.471491    0.041667  
+56286              0  0.000000   -0.565789  
+56287             10 -0.421053    0.388158  
+
+[975 rows x 13 columns]"
+6,6,0,1,T,2021,0.3765182186234818,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+50820         50820       50820  2021             f   2021f   
+50821         50821       50821  2021             f   2021f   
+50822         50822       50822  2021             f   2021f   
+50823         50823       50823  2021             f   2021f   
+50824         50824       50824  2021             f   2021f   
+...             ...         ...   ...           ...     ...   
+51803         51803       51803  2021             f   2021f   
+51804         51804       51804  2021             f   2021f   
+51805         51805       51805  2021             f   2021f   
+51806         51806       51806  2021             f   2021f   
+51807         51807       51807  2021             f   2021f   
+
+      jury_or_televoting             from              to  points Duplicate  \
+50820                  T        Australia         Albania       0       NaN   
+50821                  T          Austria         Albania       0       NaN   
+50822                  T       Azerbaijan         Albania       0       NaN   
+50823                  T          Belgium         Albania       0       NaN   
+50824                  T         Bulgaria         Albania       0       NaN   
+...                  ...              ...             ...     ...       ...   
+51803                  T            Spain  United Kingdom       0       NaN   
+51804                  T           Sweden  United Kingdom       0       NaN   
+51805                  T      Switzerland  United Kingdom       0       NaN   
+51806                  T  The Netherlands  United Kingdom       0       NaN   
+51807                  T          Ukraine  United Kingdom       0       NaN   
+
+       model1_points       FoF  model1_FoF  
+50820              0 -0.078829   -0.290541  
+50821              0 -0.078829   -0.290541  
+50822              0 -0.078829   -0.290541  
+50823              0 -0.078829   -0.290541  
+50824              8 -0.078829    0.394144  
+...              ...       ...         ...  
+51803              8  0.000000    0.198198  
+51804              1  0.000000   -0.400901  
+51805             10  0.000000    0.369369  
+51806              4  0.000000   -0.144144  
+51807             14  0.000000    0.711712  
+
+[988 rows x 13 columns]"
+7,7,0,1,J,2019,0.33205374280230326,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+48790         48790       48790  2019             f   2019f   
+48791         48791       48791  2019             f   2019f   
+48792         48792       48792  2019             f   2019f   
+48793         48793       48793  2019             f   2019f   
+48794         48794       48794  2019             f   2019f   
+...             ...         ...   ...           ...     ...   
+49827         49827       49827  2019             f   2019f   
+49828         49828       49828  2019             f   2019f   
+49829         49829       49829  2019             f   2019f   
+49830         49830       49830  2019             f   2019f   
+49831         49831       49831  2019             f   2019f   
+
+      jury_or_televoting     from               to  points Duplicate  \
+48790                  J    Malta            Italy      12       NaN   
+48791                  J    Malta            Spain       0       NaN   
+48792                  J    Malta           Israel       0       NaN   
+48793                  J    Malta   United Kingdom       0       NaN   
+48794                  J    Malta        Australia       0       NaN   
+...                  ...      ...              ...     ...       ...   
+49827                  J  Belarus           Greece       3       NaN   
+49828                  J  Belarus          Germany       0       NaN   
+49829                  J  Belarus          Belarus       0         x   
+49830                  J  Belarus  The Netherlands       6       NaN   
+49831                  J  Belarus           Russia       1       NaN   
+
+       model1_points       FoF  model1_FoF  
+48790              5  0.557692   -0.017094  
+48791             10 -0.002137    0.403846  
+48792              2  0.000000   -0.232906  
+48793              0 -0.017094   -0.282051  
+48794              3 -0.326923   -0.113248  
+...              ...       ...         ...  
+49827              6  0.149573    0.119658  
+49828             12 -0.051282    0.623932  
+49829             17 -0.038462    0.965812  
+49830              0  0.006410   -0.324786  
+49831             12 -0.183761    0.544872  
+
+[1042 rows x 13 columns]"
+8,8,0,1,T,2018,0.3559928443649374,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+43672         43672       43672  2018             f   2018f   
+43673         43673       43673  2018             f   2018f   
+43674         43674       43674  2018             f   2018f   
+43675         43675       43675  2018             f   2018f   
+43676         43676       43676  2018             f   2018f   
+...             ...         ...   ...           ...     ...   
+44785         44785       44785  2018             f   2018f   
+44786         44786       44786  2018             f   2018f   
+44787         44787       44787  2018             f   2018f   
+44788         44788       44788  2018             f   2018f   
+44789         44789       44789  2018             f   2018f   
+
+      jury_or_televoting            from               to  points Duplicate  \
+43672                  T         Albania          Albania       0         x   
+43673                  T         Albania        Australia       0       NaN   
+43674                  T         Albania          Austria       2       NaN   
+43675                  T         Albania         Bulgaria       6       NaN   
+43676                  T         Albania           Cyprus      10       NaN   
+...                  ...             ...              ...     ...       ...   
+44785                  T  United Kingdom            Spain       0       NaN   
+44786                  T  United Kingdom           Sweden       0       NaN   
+44787                  T  United Kingdom  The Netherlands       0       NaN   
+44788                  T  United Kingdom          Ukraine       0       NaN   
+44789                  T  United Kingdom   United Kingdom       0         x   
+
+       model1_points       FoF  model1_FoF  
+43672              4 -0.117886   -0.008130  
+43673              0 -0.018293   -0.414634  
+43674              3  0.026423   -0.211382  
+43675              0  0.378049   -0.286585  
+43676              2  0.339431   -0.247967  
+...              ...       ...         ...  
+44785              8 -0.036585    0.384146  
+44786              8 -0.042683    0.292683  
+44787              5 -0.065041    0.046748  
+44788             14 -0.241870    0.817073  
+44789              9 -0.050813    0.300813  
+
+[1118 rows x 13 columns]"
+9,9,0,1,J,2016,0.3142589118198874,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+35286         35286       35286  2016             f   2016f   
+35287         35287       35287  2016             f   2016f   
+35288         35288       35288  2016             f   2016f   
+35289         35289       35289  2016             f   2016f   
+35290         35290       35290  2016             f   2016f   
+...             ...         ...   ...           ...     ...   
+36347         36347       36347  2016             f   2016f   
+36348         36348       36348  2016             f   2016f   
+36349         36349       36349  2016             f   2016f   
+36350         36350       36350  2016             f   2016f   
+36351         36351       36351  2016             f   2016f   
+
+      jury_or_televoting            from               to  points Duplicate  \
+35286                  J         Albania          Armenia       0       NaN   
+35287                  J         Albania        Australia      12       NaN   
+35288                  J         Albania          Austria       0       NaN   
+35289                  J         Albania       Azerbaijan       0       NaN   
+35290                  J         Albania          Belgium       0       NaN   
+...                  ...             ...              ...     ...       ...   
+36347                  J  United Kingdom           Serbia       2       NaN   
+36348                  J  United Kingdom            Spain       0       NaN   
+36349                  J  United Kingdom           Sweden       0       NaN   
+36350                  J  United Kingdom  The Netherlands       0       NaN   
+36351                  J  United Kingdom          Ukraine      10       NaN   
+
+       model1_points       FoF  model1_FoF  
+35286              8 -0.239583    0.275000  
+35287              4  0.358333   -0.095833  
+35288              0 -0.064583   -0.404167  
+35289              0 -0.091667   -0.281250  
+35290              2 -0.270833   -0.356250  
+...              ...       ...         ...  
+36347              2  0.097917   -0.189583  
+36348             13 -0.139583    0.645833  
+36349              4 -0.254167   -0.004167  
+36350              7 -0.237500    0.204167  
+36351              3  0.414583   -0.141667  
+
+[1066 rows x 13 columns]"
+10,10,0,1,T,2017,0.37637362637362637,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+39950         39950       39950  2017             f   2017f   
+39951         39951       39951  2017             f   2017f   
+39952         39952       39952  2017             f   2017f   
+39953         39953       39953  2017             f   2017f   
+39954         39954       39954  2017             f   2017f   
+...             ...         ...   ...           ...     ...   
+41037         41037       41037  2017             f   2017f   
+41038         41038       41038  2017             f   2017f   
+41039         41039       41039  2017             f   2017f   
+41040         41040       41040  2017             f   2017f   
+41041         41041       41041  2017             f   2017f   
+
+      jury_or_televoting            from               to  points Duplicate  \
+39950                  T         Albania          Armenia       0       NaN   
+39951                  T         Albania        Australia       0       NaN   
+39952                  T         Albania          Austria       0       NaN   
+39953                  T         Albania       Azerbaijan       0       NaN   
+39954                  T         Albania          Belarus       0       NaN   
+...                  ...             ...              ...     ...       ...   
+41037                  T  United Kingdom            Spain       0       NaN   
+41038                  T  United Kingdom           Sweden       4       NaN   
+41039                  T  United Kingdom  The Netherlands       0       NaN   
+41040                  T  United Kingdom          Ukraine       0       NaN   
+41041                  T  United Kingdom   United Kingdom       0         x   
+
+       model1_points       FoF  model1_FoF  
+39950              0 -0.043750   -0.350000  
+39951              0 -0.004167   -0.408333  
+39952              8  0.000000    0.204167  
+39953              0 -0.087500   -0.268750  
+39954             12 -0.068750    0.616667  
+...              ...       ...         ...  
+41037              0 -0.010417   -0.306250  
+41038              1  0.079167   -0.314583  
+41039             12 -0.031250    0.641667  
+41040             20 -0.050000    1.320833  
+41041              7 -0.025000    0.145833  
+
+[1092 rows x 13 columns]"
+11,11,0,1,T,2016,0.35647279549718575,"       Unnamed: 0.1  Unnamed: 0  Year semi_or_final Edition  \
+36352         36352       36352  2016             f   2016f   
+36353         36353       36353  2016             f   2016f   
+36354         36354       36354  2016             f   2016f   
+36355         36355       36355  2016             f   2016f   
+36356         36356       36356  2016             f   2016f   
+...             ...         ...   ...           ...     ...   
+37413         37413       37413  2016             f   2016f   
+37414         37414       37414  2016             f   2016f   
+37415         37415       37415  2016             f   2016f   
+37416         37416       37416  2016             f   2016f   
+37417         37417       37417  2016             f   2016f   
+
+      jury_or_televoting            from               to  points Duplicate  \
+36352                  T         Albania          Armenia       2       NaN   
+36353                  T         Albania        Australia      12       NaN   
+36354                  T         Albania          Austria       0       NaN   
+36355                  T         Albania       Azerbaijan       0       NaN   
+36356                  T         Albania          Belgium       0       NaN   
+...                  ...             ...              ...     ...       ...   
+37413                  T  United Kingdom           Serbia       0       NaN   
+37414                  T  United Kingdom            Spain       4       NaN   
+37415                  T  United Kingdom           Sweden       1       NaN   
+37416                  T  United Kingdom  The Netherlands       0       NaN   
+37417                  T  United Kingdom          Ukraine       5       NaN   
+
+       model1_points       FoF  model1_FoF  
+36352             12 -0.108333    0.677083  
+36353              7  0.627083    0.177083  
+36354             12 -0.250000    0.522917  
+36355              0 -0.152083   -0.381250  
+36356              0 -0.106250   -0.360417  
+...              ...       ...         ...  
+37413              0 -0.166667   -0.454167  
+37414              4  0.320833   -0.108333  
+37415              0 -0.204167   -0.352083  
+37416              8 -0.081250    0.206250  
+37417              3 -0.245833   -0.195833  
+
+[1066 rows x 13 columns]"
